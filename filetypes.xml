@@ -5,6 +5,7 @@
       <mapping pattern="101300" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="adoc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
