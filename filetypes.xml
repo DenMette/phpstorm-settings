@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="101300" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
